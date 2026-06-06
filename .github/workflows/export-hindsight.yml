@@ -1,4 +1,3 @@
-- name: Pull image (linux/arm64)
   run: |
     docker pull --platform linux/arm64 ghcr.io/vectorize-io/hindsight:latest
 
